@@ -1,0 +1,16 @@
+
+
+
+
+void main() {
+    int b;
+    int c;
+    int d;
+    if (true) {
+        int a;
+        a = 5;
+        cout<<a;
+        cout<<"\n";
+    }
+
+}
